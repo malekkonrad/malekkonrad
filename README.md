@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### About me
-I'm currently studying Computer Science and Intelligent Systems at AGH University of Science and Technology. I'm interested in Artificial Intelligence, Physics, Digital Twins (about which I take extra course), Rocket Science. I enjoy travelling and reading in free time. 
+I'm currently studying Computer Science and Intelligent Systems at AGH University of Science and Technology. I'm interested in Artificial Intelligence, Physics, Digital Twins (about which I'm learning at extra course) and Rocket Science. I enjoy travelling and reading in free time. 
 
 ### Contact
 * email: :email: konrad.malek1@gmail.com
