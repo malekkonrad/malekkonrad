@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi,👋 I'm Konrad
 
 <!--
 **malekkonrad/malekkonrad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### About me
+I'm currently studying Computer Science and Intelligent Systems at AGH University of Science and Technology. I'm interested in Artificial Intelligence, Physics, Digital Twins (about which I take extra course), Rocket Science. I enjoy travelling and reading in free time. 
+
+### Contact
+* email: :email: konrad.malek1@gmail.com
+
+
