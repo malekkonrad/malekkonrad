@@ -20,5 +20,6 @@ I'm currently studying Computer Science and Intelligent Systems at AGH Universit
 
 ### Contact
 * email: :email: konrad.malek1@gmail.com
+* page: https://malekkonrad.github.io/
 
 
