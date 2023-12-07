@@ -23,3 +23,7 @@ I'm currently studying Computer Science and Intelligent Systems at AGH Universit
 * page: https://malekkonrad.github.io/
 
 
+### Fork
+* link to forked repository: https://github.com/malekkonrad/europilot_fork
+* link to article on Papers with Code: https://paperswithcode.com/paper/end-to-end-learning-for-self-driving-cars
+
