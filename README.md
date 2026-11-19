@@ -26,7 +26,9 @@
 |---|---|---|
 | 🏎️ **[RaceRL](https://github.com/malekkonrad/race-rl-repo)** | Multi-agent autonomous racing with RL. Custom force-based car physics, a 5-level curriculum and a transfer-learning study: **96% finish rate** vs. 8% when training from scratch. Paper at PPAM 2026. | C# · Unity ML-Agents · PPO |
 | 🤟 **[Paluszki](https://github.com/malekkonrad/paluszki)** | Video calls with live sign language → Polish subtitles. MediaPipe keypoints feed a Transformer classifier, and a locally run Gemma LLM turns the recognised signs into full sentences. | Python · FastAPI · PyTorch · Next.js · WebRTC |
+| 🚶 **[evs-mot-bytetrack](https://github.com/malekkonrad/evs-mot-bytetrack)** | Multi-object pedestrian tracking: ByteTrack and a Kalman filter implemented from scratch, extended with camera motion compensation (optical flow + RANSAC), predict-fill and gap interpolation. **MOTA 44.02%** on the hidden test set. | Python · OpenCV · NumPy · SciPy |
 | 🗄️ **[CoreORM](https://github.com/malekkonrad/CoreORM)** | A Hibernate-inspired ORM written from scratch: annotation mapping, relationships, lazy loading, transactions, a fluent query API and four inheritance strategies. | Java 17 · JDBC · PostgreSQL · JUnit 5 |
+| 🌐 **[httpfromtcp](https://github.com/malekkonrad/httpfromtcp)** | An HTTP/1.1 server written from scratch on raw TCP sockets, without `net/http`: a streaming request parser (state machine), chunked transfer encoding with trailers, a proxy route and graceful shutdown. | Go · TCP · goroutines |
 | 🚦 **[tsc_marl](https://github.com/malekkonrad/tsc_marl)** | B.Eng. thesis (in progress): graph-attention MAPPO for traffic signal control, tested under detector failure, with safe fallback gates. | Python · PyTorch · CityFlow · SUMO |
 | 📦 **[Warehouse Robot RL](https://github.com/malekkonrad/warehouse)** | A custom Gymnasium/PettingZoo warehouse where robots learn to pick up and deliver packages, with shared-policy and mixed-algorithm (PPO + SAC) teams. | Python · Stable-Baselines3 · PettingZoo |
 
@@ -43,13 +45,13 @@
 ### Tech stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,python,ts,cpp,cs&theme=dark" alt="Java, Spring, Python, TypeScript, C++, C#"/><br/>
+  <img src="https://skillicons.dev/icons?i=java,spring,python,go,ts,cpp,cs&theme=dark" alt="Java, Spring, Python, Go, TypeScript, C++, C#"/><br/>
   <img src="https://skillicons.dev/icons?i=fastapi,nextjs,react,postgres,docker,azure,aws,linux,git&theme=dark" alt="FastAPI, Next.js, React, PostgreSQL, Docker, Azure, AWS, Linux, Git"/><br/>
-  <img src="https://skillicons.dev/icons?i=pytorch,unity,maven&theme=dark" alt="PyTorch, Unity, Maven"/>
+  <img src="https://skillicons.dev/icons?i=pytorch,opencv,unity,maven&theme=dark" alt="PyTorch, OpenCV, Unity, Maven"/>
 </p>
 
-- **Backend:** Spring Boot, JDBC, REST, GraphQL, WebSockets, FastAPI, hexagonal architecture
-- **ML / research:** PyTorch, reinforcement learning (PPO, MARL), Unity ML-Agents, MediaPipe, MiniZinc
+- **Backend:** Spring Boot, Go, JDBC, REST, GraphQL, WebSockets, FastAPI, hexagonal architecture, HTTP/1.1 over raw TCP
+- **ML / research:** PyTorch, reinforcement learning (PPO, MARL), Unity ML-Agents, computer vision (OpenCV, multi-object tracking), MediaPipe, MiniZinc
 - **Quality:** JUnit 5, SonarQube
 
 ### Achievements
